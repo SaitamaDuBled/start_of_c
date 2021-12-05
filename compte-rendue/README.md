@@ -1,10 +1,1 @@
-# start_of_c
-# start_of_c
-# start_of_c
-# start_of_c
-# start_of_c_language
-# start_of_c
-# start_of_c
-# start_of_c
-# start_of_c
-# start_of_c
+
